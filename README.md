@@ -27,7 +27,7 @@ El objetivo principal es preparar, limpiar y explorar un dataset real para compr
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 * **Lenguaje:** Python
 * **Librerías:** Pandas, NumPy, Matplotlib, Seaborn.
 * **Entorno:** Google Colab / Jupyter Notebook.
@@ -42,8 +42,10 @@ telecom-churn-analysis
 ├── 📊 TelecomX_Data.json       # Dataset (Requiere carga manual)
 └── 📄 README.md                # Descripción del proyecto
 
+```
+---
 
-Instrucciones para ejecutar el proyecto en Google Colab
+## Instrucciones para ejecutar el proyecto en Google Colab
 Opción 1: Ejecutar desde GitHub en Colab (recomendado)
 - Abrir el repositorio en GitHub.
 - Hacer clic en el archivo Desafio_telecomX.ipynb.
@@ -60,14 +62,12 @@ Opción 2: Ejecutar el proyecto localmente en Colab
 - Subir el archivo JSON al entorno de Colab o conectarlo desde Google Drive.
 - Ejecutar todas las celdas del notebook.
 
-Notas adicionales:
+## Notas adicionales:
 El notebook contiene:
 - Proceso completo de limpieza y transformación de datos.
 - Análisis exploratorio con visualizaciones.
 - Interpretación de resultados.
 - No se requiere configuración adicional ni librerías externas fuera del entorno estándar de Google Colab.
 
-👤 Autora
+👤Autora
 Gisela Figueroa
-Analista de Datos Jr.
-Proyecto realizado en el marco de desafios de Alura Latam para el programa ONE de Oracle.
