@@ -17,11 +17,6 @@ El objetivo principal es preparar, limpiar y explorar un dataset real para compr
 * **Registros finales:** 7,043 clientes
 * **Variable Objetivo:** `Churn` (Evasión)
 
-**Contenido clave:**
-* **Demografía:** Género, ciudadanos mayores, dependientes.
-* **Servicios:** Telefonía, Internet, Seguridad, Soporte técnico, Streaming.
-* **Finanzas:** Tipo de contrato, método de pago, antigüedad (`tenure`), cargos mensuales y totales.
-
 > [!IMPORTANT]
 > El archivo de datos no se genera automáticamente. Es necesario descargar **`TelecomX_Data.json`** y cargarlo en el entorno antes de ejecutar el código.
 
