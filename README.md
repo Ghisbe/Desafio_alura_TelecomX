@@ -3,7 +3,7 @@
 Este proyecto forma parte de los desafíos de **Alura Latam** para el programa **Oracle Next Education (ONE)**. Se centra en el análisis de cancelaciones en una empresa de telecomunicaciones utilizando Python y técnicas de manipulación de datos.
 
 ## Descripción del Proyecto
-El objetivo principal es preparar, limpiar y explorar un dataset real para comprender el comportamiento de los clientes y sentar las bases para futuros modelos predictivos. Todo el proceso, desde la carga de datos hasta la visualización e interpretación, está documentado detalladamente en el notebook.
+El objetivo principal es preparar, limpiar y explorar un dataset para comprender el comportamiento de los clientes y sentar las bases para futuros modelos predictivos. Todo el proceso, desde la carga de datos hasta la visualización e interpretación, está documentado detalladamente en el notebook.
 
 ### Objetivos
 * **Analizar** el fenómeno de cancelaciones de manera integral.
