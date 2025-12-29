@@ -1,44 +1,46 @@
-# Desafio_alura_TelecomX
+# Desafío Alura: Telecom X - Análisis de cancelaciones de clientes
 
-Análisis de Evasión de Clientes (Churn) – Telecom X
+Este proyecto forma parte de los desafíos de **Alura Latam** para el programa **Oracle Next Education (ONE)**. Se centra en el análisis de cancelaciones en una empresa de telecomunicaciones utilizando Python y técnicas de manipulación de datos.
 
-Descripción del proyecto:
-Este proyecto analiza las cancelaciones de clientes en una empresa de telecomunicaciones utilizando Python y técnicas de análisis de datos.
-El objetivo principal es preparar, limpiar y explorar un dataset real para comprender el comportamiento de los clientes y sentar las bases para futuros análisis y modelos predictivos.
-Todo el proceso de análisis, visualización e interpretación de resultados se encuentra documentado dentro del notebook.
+## Descripción del Proyecto
+El objetivo principal es preparar, limpiar y explorar un dataset real para comprender el comportamiento de los clientes y sentar las bases para futuros modelos predictivos. Todo el proceso, desde la carga de datos hasta la visualización e interpretación, está documentado detalladamente en el notebook.
 
-Objetivos:
-- Analizar el fenómeno de cancelaciones en una empresa de telecomunicaciones.
-- Preparar y transformar los datos para su análisis.
-- Explorar patrones y relaciones entre variables relevantes.
+### Objetivos
+* **Analizar** el fenómeno de cancelaciones de manera integral.
+* **Transformar** datos crudos en información útil para el negocio.
+* **Identificar** patrones y relaciones entre servicios, costos y permanencia.
 
-Dataset:
-Formato: JSON
-Registros finales: 7.043 clientes
-Información contenida:
-- Datos demográficos
-- Servicios contratados
-- Tipo de contrato y método de pago
-- Antigüedad del cliente
-- Cargos mensuales y totales
-- Variable objetivo: Churn
-Importante:
-El archivo de datos no se genera automáticamente. El usuario debe descargar manualmente el archivo TelecomX_Data.json y subirlo al entorno de ejecución antes de correr el notebook.
+---
 
-Tecnologías utilizadas:
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab / Jupyter Notebook
+## Información del Dataset
+* **Formato:** JSON
+* **Registros finales:** 7,043 clientes
+* **Variable Objetivo:** `Churn` (Evasión)
 
-📁 Estructura del proyecto
-📂 telecom-churn-analysis
+**Contenido clave:**
+* **Demografía:** Género, ciudadanos mayores, dependientes.
+* **Servicios:** Telefonía, Internet, Seguridad, Soporte técnico, Streaming.
+* **Finanzas:** Tipo de contrato, método de pago, antigüedad (`tenure`), cargos mensuales y totales.
+
+> [!IMPORTANT]
+> El archivo de datos no se genera automáticamente. Es necesario descargar **`TelecomX_Data.json`** y cargarlo en el entorno antes de ejecutar el código.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Python
+* **Librerías:** Pandas, NumPy, Matplotlib, Seaborn.
+* **Entorno:** Google Colab / Jupyter Notebook.
+
+---
+
+## 📁 Estructura del Proyecto
+```bash
+telecom-churn-analysis
 │
-├── 📓 Desafio_telecom.ipynb       # Notebook con limpieza, EDA y visualizaciones
-├── 📄 README.md                   # Descripción del proyecto
-└── 📊 TelecomX_Data.json          # Dataset (descarga manual requerida)
+├── 📓 Desafio_telecom.ipynb    # Limpieza, EDA y visualizaciones
+├── 📊 TelecomX_Data.json       # Dataset (Requiere carga manual)
+└── 📄 README.md                # Descripción del proyecto
 
 
 Instrucciones para ejecutar el proyecto en Google Colab
