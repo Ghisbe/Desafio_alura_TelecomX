@@ -29,13 +29,13 @@ El objetivo principal es preparar, limpiar y explorar un dataset real para compr
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 ```bash
-telecom-churn-analysis
+Desafrio_alura_TelecomX
 │
-├── 📓 Desafio_telecom.ipynb    # Limpieza, EDA y visualizaciones
-├── 📊 TelecomX_Data.json       # Dataset (Requiere carga manual)
-└── 📄 README.md                # Descripción del proyecto
+├──  Desafio_telecom.ipynb    # Limpieza, EDA y visualizaciones
+├──  TelecomX_Data.json       # Dataset (Requiere carga manual)
+└──  README.md                # Descripción del proyecto
 
 ```
 ---
