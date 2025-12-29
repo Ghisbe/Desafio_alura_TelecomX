@@ -49,14 +49,20 @@ telecom-churn-analysis
 Opción 1: Ejecutar desde GitHub en Colab (recomendado)
 - Abrir el repositorio en GitHub.
 - Hacer clic en el archivo Desafio_telecomX.ipynb.
-- Seleccionar “Open in Colab” (o pegar la URL del notebook en **`https://colab.research.google.com/drive/14i7XbMBxqEiosOIUMEE5hbz5cy5x8ftq?usp=sharing`**).
+- Seleccionar “Open in Colab” o pegar la URL del notebook en:
+```bash
+https://colab.research.google.com/drive/14i7XbMBxqEiosOIUMEE5hbz5cy5x8ftq?usp=sharing
+```
 - Descargar el archivo TelecomX_Data.json.
 - Subir el archivo JSON al entorno de Colab (o a Google Drive).
 - Verificar o ajustar la ruta del archivo en el notebook si es necesario.
 - Ejecutar las celdas en orden desde el inicio.
 
 Opción 2: Ejecutar el proyecto localmente en Colab
-- Descargar o clonar el repositorio: git clone **`https://github.com/Ghisbe/Desafio_alura_TelecomX.git`**
+- Descargar o clonar el repositorio:
+```bash
+git clone https://github.com/Ghisbe/Desafio_alura_TelecomX.git
+```
 - Subir el archivo Desafio_telecom.ipynb a Google Colab.
 - Descargar el archivo TelecomX_Data.json.
 - Subir el archivo JSON al entorno de Colab o conectarlo desde Google Drive.
